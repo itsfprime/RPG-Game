@@ -1,2 +1,8 @@
 # RPG-Game
-Completely Console Based RPG Game. Currently InDev, not even close to complete. Feel free to test and find any bugs!
+
+
+KNOWN ISSUES:
+  You can't enter skip dialogue
+  Spamming enter will end up with inputs being sent when they aren't really supposed to
+  
+Have fun!
